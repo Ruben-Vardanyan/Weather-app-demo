@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: #000;
+}
+div{
+  box-sizing: border-box;
+}
+button{
+  cursor: pointer;
+}
+.App{
+  width: 800px;
+  background: #252525;
+  margin: 0 auto;
+  padding: 20px;
+  border:1px solid rgba(255,255,255,0.1);
+}
+
